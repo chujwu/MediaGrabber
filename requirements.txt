@@ -1,0 +1,5 @@
+PyQt6>=6.6.0
+yt-dlp[default]>=2025.12.08
+requests>=2.32.0
+PySocks>=1.7.1
+yt-dlp-ejs>=0.4.0
