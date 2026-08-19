@@ -1,3 +1,5 @@
+
+
 # 📺 YouTube/B站视频下载器
 
 > 基于 yt-dlp 的现代化视频下载工具，支持 YouTube、B站等多平台
@@ -67,6 +69,8 @@
 pip install -r requirements.txt
 pip install "yt-dlp[default]"
 ```
+
+> 如需使用视频/音频格式转换功能，请安装 [ffmpeg](https://ffmpeg.org) 并确保其在系统 `PATH` 中。
 
 ### 2. 配置 YouTube 支持（可选）
 
@@ -337,4 +341,3 @@ ERROR: Requested format is not available
 <p align="center">
   如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！
 </p>
-
